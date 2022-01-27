@@ -1,7 +1,7 @@
 # Mandelbrot-2.0
 A second stab at rendering the Mandelbrot set. This time optimized to run on AMD GPUs and can be multithreaded over the CPU.
 
-Dependancies:
+Dependencies:
 - Aparapi (v2.0.0) - Included
 
 Please enjoy the renders below!
